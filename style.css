@@ -148,4 +148,5 @@ a {
 
 a:hover {
   color: hsl(145, 41%, 62%);
+  cursor: pointer;
 }
