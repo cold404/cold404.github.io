@@ -145,3 +145,7 @@ a {
   text-decoration: none;
   letter-spacing: 2px;
 }
+
+a:hover {
+  color: hsl(145°, 41%, 62%);
+}
